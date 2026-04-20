@@ -7,7 +7,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
- <meta name="google-site-verification" content="aXNsFe_fWITe4hJiIOAf5JDqIcxfmXuRLTLEvfNX6zI" />/>
+ <meta name="google-site-verification" content="xgaVgRfezgkOP2uC2gB-seSka7_3nv-b80yb6cr24bk" />
   <title>BCATOTO | Transformasi Brand BCATOTO Playter Menuju Era Digital Inovatif</title>
 <!-- Favicon -->
   <link rel="icon" href="https://s13.gifyu.com/images/bqcnu.png" type="image/x-icon">
